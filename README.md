@@ -5,12 +5,10 @@
 
 ### About Me
 
-Im Pulle(Paul)
-I like to make websites preferably with a lot of **backend**!
-I am currently programming an admin panel and administrate 2 Servers
+Im Pulle aka Paul, from Freiburg im Breisgau.
 
 
-### Stats about my GitHub Acc:
+### Random Stats about my Acc that nobody aksed for:
 
 ![](https://github.com/pulledev/github-stats-joink/blob/master/generated/overview.svg)
 ![](https://github.com/pulledev/github-stats-joink/blob/master/generated/languages.svg)
