@@ -1,8 +1,3 @@
-### Hello there
-
-
-(![image](https://i.imgflip.com/5d46a3.jpg)
-
 ### About Me
 
 Hey, I'm Paul. I'm from Freiburg and I'm currently studying computer science in Mannheim.
