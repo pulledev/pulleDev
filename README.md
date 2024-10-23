@@ -2,7 +2,7 @@
 
 Hey, I'm Paul. I'm from Freiburg and I'm currently studying computer science in Mannheim.
 
-### Programming related things that I have already learned or am still learning
+### Programming related things that I have worked with or am learning
 - PHP (+Laravel)
 - Java
 - HTML, CSS, JS (+Bootstrap)
