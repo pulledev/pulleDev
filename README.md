@@ -2,11 +2,10 @@
 
 Hey, I'm Paul. I'm from Freiburg and I'm currently studying computer science in Mannheim.
 
-### Programming related things that I have worked with or am learning
+### Programming related things that I have worked with or am just learning
 - PHP (+Laravel)
-- Java
+- Java (learning)
 - HTML, CSS, JS (+Bootstrap)
-- Currently learning Rust
 - Docker
 - Debian, Arch
 - Proxmox
